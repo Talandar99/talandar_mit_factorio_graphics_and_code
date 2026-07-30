@@ -6,7 +6,7 @@ local sounds = require("__base__.prototypes.entity.sounds")
 local function steam_inserter_pipe_straight()
 	return {
 		north = {
-			filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-vertical.png",
+			filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-vertical.png",
 			priority = "extra-high",
 			width = 128,
 			height = 128,
@@ -14,7 +14,7 @@ local function steam_inserter_pipe_straight()
 			scale = 0.5,
 		},
 		west = {
-			filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-horizontal.png",
+			filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-horizontal.png",
 			priority = "extra-high",
 			width = 128,
 			height = 128,
@@ -29,7 +29,7 @@ end
 local function steam_inserter_pipe_cross()
 	return {
 		north = {
-			filename = "__steam_inserter__/graphics/fluid-inserter-base-4-directions.png",
+			filename = "__steam_inserter__/graphics/pipe-inserter-base-4-directions.png",
 			priority = "extra-high",
 			width = 128,
 			height = 128,
@@ -37,7 +37,7 @@ local function steam_inserter_pipe_cross()
 			scale = 0.5,
 		},
 		west = {
-			filename = "__steam_inserter__/graphics/fluid-inserter-base-4-directions.png",
+			filename = "__steam_inserter__/graphics/pipe-inserter-base-4-directions.png",
 			priority = "extra-high",
 			width = 128,
 			height = 128,
@@ -88,22 +88,22 @@ data:extend({
 			direction_count = 4,
 			stripes = {
 				{
-					filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-horizontal-remnants.png",
+					filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-horizontal-remnants.png",
 					width_in_frames = 1,
 					height_in_frames = 1,
 				},
 				{
-					filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-vertical-remnants.png",
+					filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-vertical-remnants.png",
 					width_in_frames = 1,
 					height_in_frames = 1,
 				},
 				{
-					filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-horizontal-remnants.png",
+					filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-horizontal-remnants.png",
 					width_in_frames = 1,
 					height_in_frames = 1,
 				},
 				{
-					filename = "__steam_inserter__/graphics/fluid-inserter-base-2-directions-vertical-remnants.png",
+					filename = "__steam_inserter__/graphics/pipe-inserter-base-2-directions-vertical-remnants.png",
 					width_in_frames = 1,
 					height_in_frames = 1,
 				},
@@ -254,7 +254,7 @@ data:extend({
 		final_render_layer = "remnants",
 		remove_on_tile_placement = false,
 		animation = {
-			filename = "__steam_inserter__/graphics/fluid-inserter-base-4-directions-remnants.png",
+			filename = "__steam_inserter__/graphics/pipe-inserter-base-4-directions-remnants.png",
 			line_length = 1,
 			width = 128,
 			height = 128,
