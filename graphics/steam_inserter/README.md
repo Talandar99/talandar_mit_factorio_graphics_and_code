@@ -1,3 +1,7 @@
+### Preview:
+
+![fluid inserter presentation](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation.png)
+![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation_remnants.png)
 
 | Name | Previed |
 | :--- | :---: |
@@ -8,12 +12,8 @@
 | **fluid inserter base 4 directions** | ![fluid inserter base 4 directions](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions.png) |
 | **fluid inserter base 4 directions remnants** | ![fluid inserter base 4 directions remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions-remnants.png) |
 
-### Preview:
 
-![fluid inserter presentation](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation.png)
-![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation_remnants.png)
-
-how to use graphic?
+### how to use graphic?
 ```lua
 -- define function with "pipe connectors first"
 local function steam_inserter_pipe_straight()
@@ -96,3 +96,4 @@ fluid_box = {
 	production_type = "input-output",
 },
 ```
+you can also just check example mod here: ![link](https://github.com/Talandar99/talandar_mit_factorio_graphics_and_code/tree/main/code_examples/steam_inserter)
