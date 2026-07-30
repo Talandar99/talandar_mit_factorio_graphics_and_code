@@ -8,9 +8,10 @@
 | **fluid inserter base 4 directions** | ![fluid inserter base 4 directions](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions.png) |
 | **fluid inserter base 4 directions remnants** | ![fluid inserter base 4 directions remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions-remnants.png) |
 
-Preview:
+### Preview:
+
 ![fluid inserter presentation](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation.png)
-![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation-remnants.png)
+![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation_remnants.png)
 
 how to use graphic?
 ```lua
