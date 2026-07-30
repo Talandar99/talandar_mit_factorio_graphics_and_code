@@ -1,16 +1,16 @@
 ### Preview:
 
-![fluid inserter presentation](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation.png)
-![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/steam_inserter_presentation_remnants.png)
+![fluid inserter presentation](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/steam_inserter_presentation.png)
+![fluid inserter presentation remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/steam_inserter_presentation_remnants.png)
 
 | Name | Previed |
 | :--- | :---: |
-| **fluid inserter base 2 directions horizontal** | ![fluid inserter base 2 directions horizontal](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-2-directions-horizontal.png) |
-| **fluid inserter base 2 directions horizontal remnants** | ![fluid inserter base 2 directions horizontal remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-2-directions-horizontal-remnants.png) |
-| **fluid inserter base 2 directions vertical** | ![fluid inserter base 2 directions vertical](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-2-directions-vertical.png) |
-| **fluid inserter base 2 directions vertical remnants** | ![fluid inserter base 2 directions vertical remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-2-directions-vertical-remnants.png) |
-| **fluid inserter base 4 directions** | ![fluid inserter base 4 directions](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions.png) |
-| **fluid inserter base 4 directions remnants** | ![fluid inserter base 4 directions remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/steam_inserter/fluid-inserter-base-4-directions-remnants.png) |
+| **fluid inserter base 2 directions horizontal** | ![fluid inserter base 2 directions horizontal](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-2-directions-horizontal.png) |
+| **fluid inserter base 2 directions horizontal remnants** | ![fluid inserter base 2 directions horizontal remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-2-directions-horizontal-remnants.png) |
+| **fluid inserter base 2 directions vertical** | ![fluid inserter base 2 directions vertical](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-2-directions-vertical.png) |
+| **fluid inserter base 2 directions vertical remnants** | ![fluid inserter base 2 directions vertical remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-2-directions-vertical-remnants.png) |
+| **fluid inserter base 4 directions** | ![fluid inserter base 4 directions](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-4-directions.png) |
+| **fluid inserter base 4 directions remnants** | ![fluid inserter base 4 directions remnants](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/fluid_inserter_base/fluid-inserter-base-4-directions-remnants.png) |
 
 
 ### how to use graphic?
