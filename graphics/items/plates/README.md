@@ -8,3 +8,10 @@
 | **Rough Brass Plate** | ![Rough Brass Plate](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/plates/rough_brass_plate.png) |
 | **Rough Plate** | ![Rough Plate](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/plates/rough_plate.png) |
 | **Thick Rough Brass Plate** | ![Thick Rough Brass Plate](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/plates/thick_rough_brass_plate.png) |
+| **Crystal Plate** | ![Crystal Plate 64](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/plates/crystal_plate_64.png) |
+
+
+
+| Name | Preview |
+| :--- | :---: |
+| **Crystal Plate** | ![Crystal Plate 256](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/plates/crystal_plate_256.png) |
