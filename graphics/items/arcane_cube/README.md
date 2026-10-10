@@ -13,6 +13,7 @@
 | **arcane cube 11 (64px)** | ![Arcane Cube 11 64](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/arcane_cube/arcane_cube_11_64.png) |
 | **arcane cube 12 (64px)** | ![Arcane Cube 12 64](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/arcane_cube/arcane_cube_12_64.png) |
 | **arcane cube 13 (64px)** | ![Arcane Cube 13 64](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/arcane_cube/arcane_cube_13_64.png) |
+
 | Name | Preview |
 | :--- | :---: |
 | **arcane cube 1 (256px)** | ![Arcane Cube 1 256](https://raw.githubusercontent.com/Talandar99/talandar_mit_factorio_graphics_and_code/refs/heads/main/graphics/items/arcane_cube/arcane_cube_1_256.png) |
